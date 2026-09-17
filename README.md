@@ -1,2 +1,4 @@
 # git-practice
-this is mt first repositry
+this is my first repositry
+i use only for practice
+
